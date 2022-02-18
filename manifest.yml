@@ -1,7 +1,12 @@
-version: '1.0'
+version: 1.0.1
 history:
-  '1.0':
+  1.0.1:
+    date: '2022-02-18'
+    title: Readme
+    description: 'Improvements.'
+  1.0.0:
     date: '2019-01-09'
+    title: First version
     description: 'First version.'
 plugin: {  }
 sys:
